@@ -42,7 +42,7 @@ War of gods(诸神之战）
 #### 引擎
 本游戏采用Bevy引擎进行开发，Bevy是一款用于2D和3D游戏开发的现代、高性能、数据驱动的游戏引擎，可用于快速开发原型、游戏和交互式应用程序。
 
-fyrox引擎版本以后会提供
+fyrox引擎版本提供在分支 [fyrox](https://github.com/aixiaofour/warofgads/tree/fyrox)
 
 #### 编程语言
 本游戏采用Rust语言进行开发。
